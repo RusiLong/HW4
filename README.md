@@ -4,4 +4,4 @@ HW4_QUESTION2
 CODE is in hw4.ipynb doc.
 
 
-picture is in the plot doc.
+picture is in the newplot doc.
